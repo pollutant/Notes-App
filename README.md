@@ -1,2 +1,2 @@
 # Notes-App
-Notes Creating App in JS
+### This app is used to create Notes 
